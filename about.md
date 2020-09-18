@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-Hello peeps, I'm [Fabio], I just graduated in Computer Engineering and I live in Italy. The blog purpose is to document my programming 🎒 journey. I like to learn and solve problems from the web.
+Hello peeps, I'm [Fabio]() , I just graduated in Computer Engineering and I live in Italy. The blog purpose is to document my programming 🎒 journey. I like to learn and solve problems from the web.
 
 
 If you have any kind of question, just send me a message.
